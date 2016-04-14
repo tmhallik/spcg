@@ -9,14 +9,11 @@ that I cannot eliminate UNLESS I make ze evil maschins to do it, especially when
 As the basic tasks are mostly same on every language, it would be best if the programmer focused on the design and the
 computer generated the code. Practically, I'll try to create a couple of basic functions such as:
 
-*printing
+* printing
+* reading input
+* variable table to store references
+* simple (unnested) functions
 
-*reading input
-
-*variable table to store references
-
-*simple (unnested) functions
- 
  For the script symbol, I will try to steal them from some simple-yet-cool languages like Pascal.
  
  Optimizing is not my focus. I want the generated code to be easy to read and frankly most people for what I know
