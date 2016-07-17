@@ -16,6 +16,8 @@ characters are easy to type with a virtual keyboard without constantly having to
  
 TODO: add the command list with the command symbols and extensive examples here
 
+An Extra Feature: Make a GUI menu-tool to generate the script files and exterminating the last place to commit a time-wasting typo.
+
 Optimizing is not a focus. An auto-generated code is repetitive and some compilers have methods to optimize that during
 compiling time.
  
