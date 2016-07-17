@@ -1,7 +1,7 @@
 # spcg
 Scripted Program Code Generator -- creates a source code programs to a target language from line-by-line parsed script
 
-The input-output presentation: script, lang -> program_code_on_lang
+The input-output presentation: script, lang -> program_code_in_lang
 
 It is a software that converts a simple script key words into target programming language. The following things are going
 to be implemented:
