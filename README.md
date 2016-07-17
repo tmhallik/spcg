@@ -14,6 +14,8 @@ to be implemented:
 The script notation will be kept readable by utilizing exclusively alphanumeric notation. It is notable that alphanumeric
 characters are easy to type with a virtual keyboard without constantly having to open a special character menu.
  
+TODO: add the command list with the command symbols and extensive examples here
+
 Optimizing is not a focus. An auto-generated code is repetitive and some compilers have methods to optimize that during
 compiling time.
  
