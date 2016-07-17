@@ -7,14 +7,14 @@
 # The element list used by the code generation process
 class ElemEnum:
     TEMPLATE_BASE, INDENT_LEVEL_DEFAULT, PRINT, READ,
-    VARIABLE, FUNCTION = range(6)
+    VARIABLE, FUNCTION, LANG_FILE_EXTENSION = range(7)
    
 structures = {
 
  #TEMPLATE_BASE describes the coding "frame" (?) that the compiler requires it to have
-  ElemEnum.INDENT_LEVEL_DEFAULT = 2
+  ElemEnum.INDENT_LEVEL_DEFAULT : 2
   ElemEnum.TEMPLATE_BASE : '#include<stdio.h>\n{PRECODE}\nint main() {\n{CODE}\n  return 0;\n}'
-
+  ElemEnum.LANG_FILE_EXTENSION = 'cc'
 }
 
 
