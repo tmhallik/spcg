@@ -3,3 +3,6 @@
 *.scg
 *.spc
 *.spcg
+
+*.cc
+*__pycache__*
