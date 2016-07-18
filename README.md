@@ -1,4 +1,4 @@
-# spcg
+# spcg (Python 3)
 Scripted Program Code Generator -- creates a source code programs to a target language from line-by-line parsed script
 
 The input-output presentation: script, lang -> program_code_in_lang
